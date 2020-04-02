@@ -22,3 +22,11 @@
 使用IDEA打开项目后，需要根据实际情况修改 `application.yml` 文件，配置数据库。
 
 3. 运行项目
+
+### 项目相关
+前端源码地址：[https://github.com/langlang1010/songci-client/](https://github.com/langlang1010/songci-client/)
+爬虫源码地址：[https://github.com/langlang1010/songci-scrapy/](https://github.com/langlang1010/songci-scrapy/)
+
+
+
+
