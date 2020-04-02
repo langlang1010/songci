@@ -24,9 +24,8 @@
 3. 运行项目
 
 ### 项目相关
-前端源码地址：[https://github.com/langlang1010/songci-client/](https://github.com/langlang1010/songci-client/)
-
-爬虫源码地址：[https://github.com/langlang1010/songci-scrapy/](https://github.com/langlang1010/songci-scrapy/)
+* 前端源码地址：[https://github.com/langlang1010/songci-client/](https://github.com/langlang1010/songci-client/)
+* 爬虫源码地址：[https://github.com/langlang1010/songci-scrapy/](https://github.com/langlang1010/songci-scrapy/)
 
 
 
