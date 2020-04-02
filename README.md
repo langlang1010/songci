@@ -1,4 +1,6 @@
-## songci
+## 宋词学习网
+
+欢迎访问宋词学习网 [https://smileyan.cn/songci/](https://smileyan.cn/songci)
 
 非常简单的项目，无任何复杂业务逻辑，只做一件事情：查询宋词。
 
